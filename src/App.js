@@ -25,8 +25,10 @@ function App() {
   console.log(search)
   return (
     <div className="App">
+      <div className='input-container'>
       <input onChange={(e)=>setSearch(e.target.value)} placeholder='City Name' type='text'></input>
       {city && <City city={city}></City>}
+      </div>
     </div>
   );
 }
