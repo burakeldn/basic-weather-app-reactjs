@@ -1,3 +1,4 @@
+https://burakeldn-basic-weather-app.netlify.app/
 ###
 ![Ekran görüntüsü 2023-07-15 213036](https://github.com/burakeldn/basic-weather-app-reactjs/assets/96900698/14bef04d-48c8-423e-8ea8-31bf321129a1)
 ###
